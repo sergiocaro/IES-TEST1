@@ -1,0 +1,6 @@
+CorrelationId: 05a6bfc7-f6f4-4498-b41e-d745e2b2479b
+UTC DateTime: 02/02/2026 15:37:45
+
+The following files/folders have not been downloaded
+0. InstitutoREST/InstitutoREST/target/classes/.netbeans_automatic_build
+1. InstitutoREST/InstitutoREST/target/test-classes/.netbeans_automatic_build
